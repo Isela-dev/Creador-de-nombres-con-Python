@@ -1,4 +1,8 @@
+
 # Proyecto de Marca Creativa en Python 🚀
+
+[![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 Este proyecto en Python le pide a un amigo que responda dos preguntas con una sola palabra cada una. Luego, las palabras se combinan y se muestran en la pantalla para formar una marca creativa y original, que puede resultar cómica. Además, el nombre de la marca se imprimirá entre comillas y en dos líneas utilizando saltos de línea en el código.
 
