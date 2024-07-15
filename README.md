@@ -1,22 +1,21 @@
 
-# Proyecto de Marca Creativa en Python 🚀
+# Creative Branding Project in Python 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-Este proyecto en Python le pide a un amigo que responda dos preguntas con una sola palabra cada una. Luego, las palabras se combinan y se muestran en la pantalla para formar una marca creativa y original, que puede resultar cómica. Además, el nombre de la marca se imprimirá entre comillas y en dos líneas utilizando saltos de línea en el código.
+This Python project asks a friend to answer two questions with one word each. The words are then combined and displayed on the screen to form a creative and original mark, which can be comical. In addition, the brand name will be printed in quotation marks and on two lines using line breaks in the code.
 
-## 📋 Instrucciones
+## 📋 Instructions
 
-1. **Instalación:**
-    No se requiere instalación especial, solo necesitas tener Python instalado en tu sistema.
+1. **Installation:**
+    No special installation is required, you just need to have Python installed on your system.
+2. **Use:**
+    - Run the script in your terminal or any development environment of your choice.
+    - Answer the two questions with one word each.
+    - Watch how the words combine to form a creative name.
 
-2. **Uso:**
-    - Ejecuta el script en tu terminal o cualquier entorno de desarrollo que prefieras.
-    - Responde las dos preguntas con una sola palabra cada una.
-    - Observa cómo las palabras se combinan para formar un nombre creativo.
-
-## 📝 Código
+## 📝 Code
 
 ```python
 # Código para crear una marca creativa
